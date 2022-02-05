@@ -1,0 +1,3 @@
+C:\Johnson\ASP.NET\ReactNodejs\ReactNodejs\obj\Debug\ReactNodejs.njsproj.AssemblyReference.cache
+C:\Johnson\ASP.NET\ReactNodejs\ReactNodejs\obj\Debug\ReactNodejs.njsproj.CoreCompileInputs.cache
+C:\Johnson\ASP.NET\ReactNodejs\ReactNodejs\bin\Microsoft.NodejsTools.WebRole.dll

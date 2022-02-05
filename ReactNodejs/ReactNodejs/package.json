@@ -1,0 +1,20 @@
+{
+  "name": "react-nodejs",
+  "version": "0.0.0",
+  "description": "ReactNodejs",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ts-loader": "^9.2.6",
+    "webpack-cli": "^4.9.1"
+  },
+  "scripts": {
+    "build": "webpack-cli ./app.tsx --config webpack-config.js"
+  }
+}
